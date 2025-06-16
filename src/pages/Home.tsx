@@ -337,7 +337,7 @@ export default function Home() {
   // On affiche les flèches "position: absolute" à gauche/droite, puis on affiche les cartes au centre
 
   return (
-    <div className="p-8 max-w-6xl mx-auto font-sans">
+    <div className="p-8 max-w-6xl mx-auto font-sans mt-12">
       {/* Profil */}
       <div className="flex flex-col md:flex-row items-center mb-16">
         <motion.img
